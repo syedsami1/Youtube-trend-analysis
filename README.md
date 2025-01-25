@@ -1,6 +1,10 @@
 
 # YouTube Trend Analysis with CrewAI and BrightData
 
+
+
+
+
 Dive into YouTube trends with the powerful combo of CrewAI and BrightData! This project lets you analyze the latest video trends and generate insightful summaries.
 
 ## Setup and Installations
